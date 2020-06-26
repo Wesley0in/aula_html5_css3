@@ -1,0 +1,13 @@
+body{
+    background: rgb(216, 139, 139);
+}
+   
+header{
+    margin-top: 70px;
+}
+
+
+h1{
+    color:red;
+    font-family: fantasy;
+}
